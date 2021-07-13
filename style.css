@@ -218,7 +218,7 @@ Latest Course Section style
 @media only screen and (max-width: 688px) {
     /* common styles */
     .container {
-        width: 100%;
+        width: 90%;
         padding: 0;
     }
     .section-title {
@@ -227,10 +227,11 @@ Latest Course Section style
     /* header section part */
     header {
         width: 100%;
-        padding: 0 10px;
+        /* padding: 0 10px; */
     }
     header nav {
-        width: 100%;
+        width: 90%;
+        padding: 0 5%;
     }
     nav .nav-right a {
         display: none;
@@ -273,7 +274,7 @@ Latest Course Section style
 @media only screen and (min-width: 689px) and (max-width: 992px) {
     /* common styles */
     .container {
-        width: 100%;
+        width: 90%;
         padding: 0;
     }
     .section-title {
@@ -282,10 +283,11 @@ Latest Course Section style
     /* header section part */
     header {
         width: 100%;
-        padding: 0 40px;
+        /* padding: 0 40px; */
     }
     header nav {
-        width: 100%;
+        width: 90%;
+        padding: 0 5%;
     }
     nav .nav-right a:nth-child(1) {
         display: none;
